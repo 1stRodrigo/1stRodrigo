@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**1stRodrigo/1stRodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Prazer, eu sou Rodrigo Oliveira
 
-Here are some ideas to get you started:
+Programador front-end desde 2022. 
+Sou uma pessoa curiosa que está sempre pensando na melhor forma de executar algo, para que seja prático e rápido. Em resumo, a otimização de processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Fortes: JavaScript, HTML, CSS
+#### Aprendendo: React, Node.JS
+
+### Caso queira entrar em contato:
+  
+  <a href="https://www.linkedin.com/in/rodrigooliveiradev/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&"/>
+  </a>
+  <a href="https://wa.me/message/AVGB7CMB7RSUG1" alt="Whatsapp">
+    <img src="https://img.shields.io/badge/-Whatsapp-brightgreen"/>
+  </a>
+  
+</p>
