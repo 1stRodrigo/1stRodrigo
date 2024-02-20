@@ -1,11 +1,12 @@
 
 ## Prazer, eu sou Rodrigo Oliveira
 
-Programador front-end desde 2022. 
+Programador desde 2022. 
+Atualmente estou cursando ADS (Analise e Desenvolvimento de Sistemas) na Unip e fazendo outros estudos por fora voltados a area de programação Mobile.
 Sou uma pessoa curiosa que está sempre pensando na melhor forma de executar algo, para que seja prático e rápido. Em resumo, a otimização de processos.
 
 #### Fortes: JavaScript, HTML, CSS
-#### Aprendendo: React, Node.JS
+#### Aprendendo: React Native, Node.JS, Firebase
 
 ### Caso queira entrar em contato:
   
