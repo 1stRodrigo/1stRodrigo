@@ -11,9 +11,6 @@ Com domínio de NodeJS, desenvolvo APIs REST que garantem a integração perfeit
   <a href="https://www.linkedin.com/in/rodrigooliveiradev/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&"/>
   </a>
-  <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSHwQRdJkPpLKdWDbgkbVCWTmRwNSMSCnhLrtcGGvMkkQdxmlvdfBnptcRdPjgbfLtRhlqKl" alt="Email">
-    <img src="https://img.shields.io/badge/-Email"/>
-  </a>
   <a href="https://wa.me/message/AVGB7CMB7RSUG1" alt="Whatsapp">
     <img src="https://img.shields.io/badge/-Whatsapp-brightgreen"/>
   </a>
