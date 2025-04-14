@@ -3,8 +3,8 @@
 
 Graduando em Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia e especializado no desenvolvimento de aplicativos mobile com React Native. Minha experiência é focada em criar aplicações intuitivas, funcionais e visualmente atraentes, sempre priorizando a experiência do usuário (UX) e o design de interfaces (UI).
 
-Com domínio de NodeJS, desenvolvo APIs REST que garantem a integração perfeita entre front-end e back-end, permitindo soluções escaláveis e eficientes. Também possuo habilidades sólidas em HTML, CSS, JavaScript, TypeScript e no uso de Firebase para back-end
-#### Fortes: React Native, NodeJS, Typescript, Firebase
+Com domínio de NodeJS, desenvolvo APIs REST que garantem a integração perfeita entre front-end e back-end, permitindo soluções escaláveis e eficientes. Também possuo habilidades sólidas em HTML, CSS, JavaScript, TypeScript e no uso de NodeJS para back-end
+#### Fortes: React Native, NodeJS, Typescript
 
 ### Caso queira entrar em contato:
   
